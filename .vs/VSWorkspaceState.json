@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplicationtask2",
+    "\\WebApplicationtask2\\bin\\Debug\\net6.0",
+    "\\WebApplicationtask2\\DataAccessLayer",
+    "\\WebApplicationtask2\\Migrations",
+    "\\WebApplicationtask2\\obj\\Release"
+  ],
+  "SelectedNode": "\\WebApplicationtask2\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
